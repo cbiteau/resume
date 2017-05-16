@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cbiteau.github.io/resume",
+  "homepage": "http://resume.cbiteau.fr/",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
